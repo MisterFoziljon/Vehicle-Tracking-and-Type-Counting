@@ -1,2 +1,2 @@
 ## Example
-![image](https://github.com/MisterFoziljon/Vehicle-Tracking-and-Type-Counting/blob/main/source/output.gif)
+![image](https://github.com/MisterFoziljon/Vehicle-Tracking-and-Type-Counting/blob/main/sources/output.gif)
